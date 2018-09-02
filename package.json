@@ -1,0 +1,23 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "description": "Color Game",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brendon1911/Color-Game.git"
+  },
+  "author": "Brendon Richards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brendon1911/Color-Game/issues"
+  },
+  "homepage": "https://github.com/Brendon1911/Color-Game#readme",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
